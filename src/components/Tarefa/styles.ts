@@ -76,10 +76,6 @@ export const Botoes = styled.button`
   margin-right: 8px;
 `
 
-export const BotaoSalvar = styled(Botoes)`
-  background-color: ${variaveis.verde};
-`
-
 export const BotaoCancelarRemover = styled(Botoes)`
   background-color: ${variaveis.vermelho};
 `
